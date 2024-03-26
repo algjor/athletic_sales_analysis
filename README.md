@@ -4,7 +4,7 @@
 
 The following code will analyze sales data to gain insights into U.S. cities that have sold the most athletic wear over two years. Additionally, it will analyze the retailers that had the greatest total sales for athletic wear, and which retailers sold the most women's athletic footwear. Finally, the day and week that had the highest sales for women's athletic footwear will be determined.  
 The code will require functions such as the groupby, pivot_table, resample, and import of csv files. 
-This code is available at Github under ( ).
+This code is available at Github under (https://github.com/algjor/athletic_sales_analysis ).
 
 ## Description of Code:
 This code was completed using the following steps.
